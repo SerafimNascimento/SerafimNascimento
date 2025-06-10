@@ -45,7 +45,7 @@ I enjoy helping others succeed and often mentor junior devs and testers.
 
 ## 📈 GitHub Stats
 
-![Serafim's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark&hide_title=true)
+![Serafim's GitHub stats](https://github-readme-stats.vercel.app/api?username=SerafimNascimento&show_icons=true&theme=github_dark&hide_title=true)
 
 ---
 
