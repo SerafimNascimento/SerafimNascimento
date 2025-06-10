@@ -52,7 +52,7 @@ I enjoy helping others succeed and often mentor junior devs and testers.
 ## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/serafimvbc)  
-- 💻 [Portfolio Website](https://your-website.com) *(under construction)*  
+- 💻 [Portfolio Website](https://) *(under construction)*  
 - ✉️ Email: serafimvbc@gmail.com  
 - 🌐 Open to freelance Software Development and QA projects, automation consulting, or educational roles!
 
