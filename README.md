@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Serafim Nascimento!
 
 🎓 **Software Engineer | QA Specialist | Educator**  
-📍 Based in Vancouver, BC, Canada  
-💬 Languages: English 🇬🇧 | Portuguese 🇧🇷
+📍 Currently in Vancouver, BC, Canada  
+💬 Languages: English 🇬🇧 | Portuguese 🇧🇷 | Spanish 🇧🇷 | Portuguese 🇧🇷
 
 ---
 
@@ -21,12 +21,12 @@ I love transforming complex problems into scalable, clean code and helping peopl
 
 ## 🔧 Technologies & Tools
 
-- **Languages**: Java, JavaScript, Python, HTML/CSS, SQL  
+- **Languages**: Fortran, C/C++, Java, JavaScript, Python, HTML/CSS, SQL  
 - **Frameworks & Tools**: Selenium, JUnit, Jest, Cypress, Node.js, Git, Firebase  
-- **Platforms**: GitHub, GitLab, VS Code, IntelliJ, Postman  
-- **CI/CD**: GitHub Actions, Firebase Hosting, Jenkins  
+- **Platforms**: GitHub, GitLab, VS Code, IntelliJ, Postman, Eclipse, NetBeans  
+- **CI/CD**: GitHub Actions, Firebase Hosting, Jenkins, AWS  
 - **Testing**: Manual & Automated Testing, API Testing, Mobile & Web QA  
-- **Databases**: MySQL, MongoDB, Firebase Firestore
+- **Databases**: MySQL, PostgreSQL, MongoDB, Firebase Firestore
 
 ---
 
@@ -34,7 +34,7 @@ I love transforming complex problems into scalable, clean code and helping peopl
 
 I'm an experienced instructor and curriculum contributor, having taught:
 
-- 🧑‍💻 Frontend Development (HTML, CSS, JS)  
+- 🧑‍💻 Frontend Development (HTML, CSS, JS, TypeScript)  
 - 🧠 Programming Fundamentals  
 - 📊 Databases & Backend Concepts  
 - 📱 Software Testing and QA Best Practices
@@ -51,12 +51,11 @@ I enjoy helping others succeed and often mentor junior devs and testers.
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/serafimvbc)  
 - 💻 [Portfolio Website](https://your-website.com) *(if available)*  
-- ✉️ Email: your.email@example.com  
-- 🌐 Open to freelance QA projects, automation consulting, or educational roles!
+- ✉️ Email: serafimvbc@example.com  
+- 🌐 Open to freelance Software Development and QA projects, automation consulting, or educational roles!
 
 ---
 
 > *"Great software starts with clean code, robust testing, and shared learning."* – Serafim
-
