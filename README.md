@@ -2,7 +2,7 @@
 
 🎓 **Software Engineer | QA Specialist | Educator**  
 📍 Currently in Vancouver, BC, Canada  
-💬 Languages: English 🇬🇧 | Portuguese 🇧🇷 | Spanish 🇧🇷 | Portuguese 🇧🇷
+💬 Languages: English 🇬🇧 | Portuguese 🇧🇷 | Spanish 🇪🇸 (Intermediate) | French 🇫🇷 (Learning)
 
 ---
 
